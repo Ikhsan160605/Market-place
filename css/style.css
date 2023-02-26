@@ -121,6 +121,8 @@ body {
   color: #230041;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
   line-height: 1.2;
+  text-shadow: 5px 5px 5px white;
+  -webkit-text-stroke: 1px #fff;
 }
 
 .hero .content h1 span {
