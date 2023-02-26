@@ -127,6 +127,7 @@ body {
 
 .hero .content h1 span {
   color: #fbff00;
+  -webkit-text-stroke: 1px #000000;
 }
 
 .hero .content p {
